@@ -2,7 +2,17 @@
 
 A physical AI desktop companion that observes your facial expression without jumping to conclusions, initiates a natural voice conversation, and reacts through synthesized speech and an animated OLED face
 
+---
 
+#Inspiration
+
+## Inspiration
+
+I struggled to open up about my anxiety and insecurities regarding my future. After overcoming it, I realized that some people, especially teenagers, may experience similar feelings but find it difficult to express them or initiate conversations.
+
+I wanted to build a companion that didn't require someone to open up first. Instead of waiting for the user to start a conversation, Mimo observes, gently initiates, and listens without assuming how someone feels.
+
+## Technical Implementation
 
 Mimo bridges computer vision, conversational AI, voice I/O, and microcontroller hardware into a single loop
 
