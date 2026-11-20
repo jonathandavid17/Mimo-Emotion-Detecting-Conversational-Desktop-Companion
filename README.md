@@ -22,3 +22,9 @@ Mimo bridges computer vision, conversational AI, voice I/O, and microcontroller 
 4. **Hardware:** Sends the chosen emotion state (`happy`, `sad`, `angry`, `neutral`) over serial (`COM6` at `9600` baud) to an ESP32 driving an OLED display
 5. **Voice Output (`mimo_voice.py`):** speaks the reply using `edge-tts` and `pygame`.
 6. **Multi-Turn Voice Chat (`mimo_listen.py`):** Listens via microphone (`SpeechRecognition`) for follow-up replies until the user says `"goodbye mimo"`, `"stop"`, or `"exit"`.
+
+
+
+## Pipeline
+
+
