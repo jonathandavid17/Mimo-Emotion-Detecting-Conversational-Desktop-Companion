@@ -2,9 +2,9 @@
 
 A physical AI desktop companion that observes your facial expression without jumping to conclusions, initiates a natural voice conversation, and reacts through synthesized speech and an animated OLED face
 
----
 
-#Inspiration
+
+
 
 ## Inspiration
 
