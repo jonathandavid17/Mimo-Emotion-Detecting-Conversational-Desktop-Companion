@@ -26,5 +26,7 @@ Mimo bridges computer vision, conversational AI, voice I/O, and microcontroller 
 
 
 ## Pipeline
+![Mimo](mimo-diagram.png)
+
 
 
